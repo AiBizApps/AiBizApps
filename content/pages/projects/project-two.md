@@ -10,7 +10,7 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/다운로드.png
+  url: /images/한국프로농구.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
