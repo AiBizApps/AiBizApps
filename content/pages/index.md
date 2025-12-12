@@ -15,9 +15,8 @@ sections:
     backgroundSize: full
     title: Ai BizApps
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      This is Our Team info -       우리는 Microsoft의 Dynamics365 CRM 전문가 집단입니다. 한글
+      폰트 별루.
     styles:
       self:
         height: auto
