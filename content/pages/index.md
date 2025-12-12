@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Ai BizApps
-    subtitle: This is Our Team info -       우리는 MS로 먹고사는 D365 CRM 전문 팀 입니다.
+    subtitle: This is Our Team info -       우리는 Microsoft의 Dynamics365 CRM 전문가 집단입니다.
     styles:
       self:
         height: auto
