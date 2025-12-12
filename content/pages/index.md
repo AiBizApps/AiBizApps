@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Ai BizApps
-    subtitle: 'This is Our Team info - '
+    subtitle: This is Our Team info -       우리는
     styles:
       self:
         height: auto
