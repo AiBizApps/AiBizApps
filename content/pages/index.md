@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: AiBizApps
+title: 'MS Dynamics365 CRM Partner 가온아이입니다. '
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
