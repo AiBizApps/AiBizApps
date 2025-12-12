@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/intro-ci.png
-  altText: Project thumbnail image
+  altText: 한국프로농구_KBL
 media:
   type: ImageBlock
   url: /images/bg2.jpg
