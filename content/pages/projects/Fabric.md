@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Fabric
+title: Microsoft Fabric
 date: '2025-12-15'
 client: ''
 description: 완전한 데이터 플랫폼에서 팀과 데이터를 통합하여 AI 혁신을 가속화하세요.
