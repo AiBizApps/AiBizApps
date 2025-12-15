@@ -139,6 +139,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
+    subtitle: 영업팀이 고객에게 집중할 수 있는 환경을 제공합니다.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
