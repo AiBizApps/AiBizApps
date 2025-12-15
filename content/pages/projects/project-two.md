@@ -4,10 +4,7 @@ title: Dynamics 365 Sales
 colors: colors-a
 date: '2021-12-20'
 client: ''
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: AI 기반 CRM 솔루션을 사용하여 더 많은 거래를 성사시키고 판매자 효율성을 높입니다.
 featuredImage:
   type: ImageBlock
   url: /images/intro-ci.png
