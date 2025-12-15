@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Ai BizApps
-    subtitle: >-
-      This is Our Team info - 우리는 Microsoft의 Dynamics365 CRM 전문가 집단입니다. 한글 폰트
-      별루.
+    subtitle: 'Microsoft Dynamics 365가 지원하는 인텔리전트 마케팅 – AI 기반 마케팅으로 성장을 가속화하세요. '
     styles:
       self:
         height: auto
@@ -35,6 +33,35 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+  - type: TextSection
+    title: Microsoft Dynamics 365가 지원하는 인텔리전트 비즈니스 어플리케이션
+    text: >-
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    colors: colors-f
+    variant: variant-a
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        textAlign: left
+    subtitle: >-
+      AI 기반 영업으로 수익 성장을 이끌어보세요. 고객과의 시간을 확보하는 것이 곧 영업의 핵심입니다. CRM을 단순한 영업 관리 도구를
+      넘어, AI 기반의 영업 파트너로 전환하세요. 영업팀이 판매 과정을 주도하고, 수익 창출 속도를 높이며, 지속 가능한 성장을 달성할
+      수 있도록 지원합니다. AI는 영업사원에게 다음 행동에 대한 추천, 성사 가능성이 높은 기회 인사이트, 자동화된 프로세스를 제공하여
+      영업 역량을 한층 끌어올립니다. KAONI 는 전략, 실전 경험, 변화관리 서비스를 통해 영업 성공을 지원합니다. 또한
+      Dynamics 365 는  Microsoft 365 및 Power Platform 과의 통합 모델을 통해 플랫폼과 애플리케이션을
+      안정적으로 운영하며, 기업이 새로운 기능을 빠르게 활용하고 IT 효율성을 확보하여 경쟁력을 강화할 수 있도록 도와드립니다.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
