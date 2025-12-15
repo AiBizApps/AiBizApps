@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Microsoft Dynamics 365가 지원하는 인텔리전트 비즈니스 어플리케이션
-    subtitle: >-
-      Microsoft Dynamics 365가 지원하는 인텔리전트 마케팅 – AI 기반 마케팅으로 성장을 가속화하세요.    AI 기반
-      영업으로 수익 성장을 이끌어보세요
+    subtitle: 'Microsoft Dynamics 365가 지원하는 인텔리전트 마케팅 – AI 기반 마케팅으로 성장을 가속화하세요. '
     styles:
       self:
         height: auto
