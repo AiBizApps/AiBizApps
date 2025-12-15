@@ -41,7 +41,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 자동화와 인사이트로 영업 생산성을 향상시키세요
-        subtitle: 자동화와 인사이트로 영업 생산성을 향상시키세요
+        subtitle: 영업사원에게 더 많은 시간을 준다면 무엇을 할 수 있을까요?
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
