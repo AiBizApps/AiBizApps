@@ -36,12 +36,130 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+  - type: FeaturedItemsSection
+    title: Value propositions
+    items:
+      - type: FeaturedItem
+        title: 자동화와 인사이트로 영업 생산성을 향상 시키세요.
+        subtitle: 영업사원에게 더 많은 시간을 준다면 무엇을 할 수 있을까요?
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        featuredImage:
+          type: ImageBlock
+          url: /images/그림2.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: 영업 성과와 수익 성장을 견인하세요.
+        subtitle: '성공률을 높이고, 거래를 더 빠르게 성사시키세요.'
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        featuredImage:
+          type: ImageBlock
+          url: /images/그림7.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: 비용을 절감하고 투자 수익률(ROI)을 향상시키세요.
+        subtitle: 레거시 CRM의 한계를 벗어나세요.
+        text: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
+          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
+          pharetra ipsum dolor, et iaculis elit ornare ac.
+        featuredImage:
+          type: ImageBlock
+          url: /images/그림8.jpg
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: ''
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: Copilot과 함께 고객 중심의 비즈니스를 실현하세요.
+        subtitle: ''
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        featuredImage:
+          type: ImageBlock
+          url: /images/그림9.png
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-f
+    columns: 1
+    spacingX: 16
+    spacingY: 16
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        textAlign: left
+    subtitle: 영업팀이 고객에게 집중할 수 있는 환경을 제공합니다.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: See all products
         url: /projects
     showDate: false
     showDescription: true
@@ -62,7 +180,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: Projects
+    subtitle: Products
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f

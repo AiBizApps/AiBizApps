@@ -1,15 +1,10 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Dynamics 365 Field Service
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
-featuredImage:
-  type: ImageBlock
-  url: /images/bg1.jpg
-  altText: Project thumbnail image
+client: ''
+description: 서비스 운영을 혁신하고 탁월한 서비스를 제공하며 고객 환경을 개선합니다.
 media:
   type: ImageBlock
   url: /images/bg1.jpg
