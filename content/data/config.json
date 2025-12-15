@@ -79,7 +79,7 @@
             "address": "[서울사무소] 서울 서초구 서초동 1557-18, 3층 가온아이",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "",
         "styles": {
             "self": {
                 "width": "narrow",
