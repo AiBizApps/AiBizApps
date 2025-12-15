@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Ai BizApps
-    subtitle: >-
-      This is Our Team info - 우리는 Microsoft의 Dynamics365 CRM 전문가 집단입니다. 한글 폰트
-      별루.
+    subtitle: Microsoft Dynamics 365가 지원하는 인텔리전트 마케팅 – AI 기반 마케팅으로 성장을 가속화하세요.
     styles:
       self:
         height: auto
