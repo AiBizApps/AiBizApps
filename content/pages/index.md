@@ -34,7 +34,7 @@ sections:
     type: HeroSection
     actions: []
   - type: TextSection
-    title: The Section Title
+    title: Microsoft Dynamics 365가 지원하는 인텔리전트 비즈니스 어플리케이션
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
