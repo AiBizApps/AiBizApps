@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About
+title: 'Why KAONI? '
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
