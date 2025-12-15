@@ -40,7 +40,7 @@ sections:
     title: Value propositions
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: 자동화와 인사이트로 영업 생산성을 향상시키세요
         subtitle: 자동화와 인사이트로 영업 생산성을 향상시키세요
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
