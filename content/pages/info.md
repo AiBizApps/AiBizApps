@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About
+title: 'Why KAONI? '
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -21,7 +21,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/그림1.png
       altText: Hero image
     styles:
       self:
@@ -39,6 +39,7 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
+    title: 'Why KAONI? '
   - type: DividerSection
     styles:
       self:
