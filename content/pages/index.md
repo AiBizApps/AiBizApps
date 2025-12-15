@@ -95,7 +95,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 비용을 절감하고 투자 수익률(ROI)을 향상시키세요.
-        subtitle: ''
+        subtitle: 레거시 CRM의 한계를 벗어나세요.
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
