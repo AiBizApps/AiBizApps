@@ -67,7 +67,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 영업 성과와 수익 성장을 견인하세요
+        title: 영업 성과와 수익 성장을 견인하세요.
         subtitle: '성공률을 높이고, 거래를 더 빠르게 성사시키세요.'
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
