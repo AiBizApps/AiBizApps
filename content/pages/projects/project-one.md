@@ -5,9 +5,6 @@ colors: colors-a
 date: '2021-10-15'
 client: ''
 description: 서비스 운영을 혁신하고 탁월한 서비스를 제공하며 고객 환경을 개선합니다.
-featuredImage:
-  type: ImageBlock
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg1.jpg
