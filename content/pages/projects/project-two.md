@@ -5,10 +5,6 @@ colors: colors-a
 date: '2021-12-20'
 client: ''
 description: AI 기반 CRM 솔루션을 사용하여 더 많은 거래를 성사시키고 판매자 효율성을 높입니다.
-featuredImage:
-  type: ImageBlock
-  url: /images/intro-ci.png
-  altText: 한국프로농구_KBL
 media:
   type: ImageBlock
   url: /images/bg2.jpg
