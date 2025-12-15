@@ -171,6 +171,7 @@ sections:
       - content/pages/projects/project-three.md
       - content/pages/projects/project-one.md
       - content/pages/projects/Dynamics-365-Contact-Center.md
+      - content/pages/projects/Fabric.md
     styles:
       self:
         height: auto
