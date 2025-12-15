@@ -172,6 +172,7 @@ sections:
       - content/pages/projects/project-one.md
       - content/pages/projects/Dynamics-365-Contact-Center.md
       - content/pages/projects/Fabric.md
+      - content/pages/projects/Power-Platform.md
     styles:
       self:
         height: auto
