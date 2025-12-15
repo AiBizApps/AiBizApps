@@ -6,7 +6,7 @@
         "headerVariant": "variant-c",
         "isSticky": false,
         "title": "Personal",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
@@ -15,8 +15,18 @@
             },
             {
                 "type": "Link",
+                "label": "Products",
+                "url": "/products"
+            },
+            {
+                "type": "Link",
                 "label": "Projects",
-                "url": "/projects"
+                "altText": "",
+                "url": "/Projects",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             },
             {
                 "type": "Link",
