@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: KBL
+title: Dynamics 365 Sales
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
