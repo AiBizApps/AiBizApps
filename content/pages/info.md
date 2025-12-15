@@ -39,6 +39,7 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
+    title: 'Why KAONI? '
   - type: DividerSection
     styles:
       self:
