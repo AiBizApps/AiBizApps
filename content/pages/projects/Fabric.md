@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Fabric
 date: '2025-12-15'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 완전한 데이터 플랫폼에서 팀과 데이터를 통합하여 AI 혁신을 가속화하세요.무료 평가판 시작
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
