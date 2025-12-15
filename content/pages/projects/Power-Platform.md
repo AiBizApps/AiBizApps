@@ -3,9 +3,7 @@ type: ProjectLayout
 title: Power Platform
 date: '2025-12-15'
 client: Awesome client
-description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+description: 로우코드 도구로 비용과 개발 시간을 절감하세요.
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
