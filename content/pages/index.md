@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Ai BizApps
-    subtitle: 'Microsoft Dynamics 365가 지원하는 인텔리전트 마케팅     – AI 기반 마케팅으로 성장을 가속화하세요. '
+    subtitle: 'Microsoft Dynamics 365가 지원하는 인텔리전트 마케팅 – AI 기반 마케팅으로 성장을 가속화하세요. '
     styles:
       self:
         height: auto
