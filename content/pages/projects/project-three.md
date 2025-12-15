@@ -5,9 +5,6 @@ colors: colors-a
 date: '2022-01-22'
 client: ''
 description: 서비스 담당자가 AI 에이전트를 사용하여 문제를 신속하게 해결할 수 있도록 합니다.
-featuredImage:
-  type: ImageBlock
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg3.jpg
