@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Dynamics 365 Field Service
 colors: colors-a
-date: '2021-10-15'
+date: '2025-12-15'
 client: ''
 description: 서비스 운영을 혁신하고 탁월한 서비스를 제공하며 고객 환경을 개선합니다.
 media:
