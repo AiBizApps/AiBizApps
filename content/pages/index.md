@@ -121,7 +121,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Item Title
+        title: Copilot과 함께 고객 중심의 비즈니스를 실현하세요.
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
