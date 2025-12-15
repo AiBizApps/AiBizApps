@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Dynamics 365 Field Service
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
