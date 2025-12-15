@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Dynamics 365 Customer Service
 colors: colors-a
-date: '2022-01-22'
+date: '2025-12-15'
 client: ''
 description: 서비스 담당자가 AI 에이전트를 사용하여 문제를 신속하게 해결할 수 있도록 합니다.
 media:
