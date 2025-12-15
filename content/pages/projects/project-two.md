@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Dynamics 365 Sales
 colors: colors-a
-date: '2021-12-20'
+date: '2025-12-15'
 client: ''
 description: AI 기반 CRM 솔루션을 사용하여 더 많은 거래를 성사시키고 판매자 효율성을 높입니다.
 media:
