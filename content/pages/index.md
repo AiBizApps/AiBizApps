@@ -49,7 +49,7 @@ sections:
           당신의 영업팀이 가장 잘하고, 가장 좋아하는 일에 집중할 수 있도록 해주세요.
         featuredImage:
           type: ImageBlock
-          url: https://o365kaoni-my.sharepoint.com/personal/thgmlrla215_kaoni_net/Documents/99.%20%EC%97%85%EB%AC%B4%EC%9A%A9%20%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80/%EA%B7%B8%EB%A6%BC2.png
+          url: /images/그림2.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
@@ -75,7 +75,7 @@ sections:
           이러한 인사이트를 실시간으로 활용하면, 영업사원은 잠재력이 높은 리드와 다음에 취해야 할 추천 행동에 대한 가이드를 받아볼 수 있습니다. AI 기반의 지원을 통해 기회 성사율을 극대화하고, 거래 성사 시간을 단축하세요.
         featuredImage:
           type: ImageBlock
-          url: https://o365kaoni-my.sharepoint.com/personal/thgmlrla215_kaoni_net/Documents/99.%20%EC%97%85%EB%AC%B4%EC%9A%A9%20%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80/%EA%B7%B8%EB%A6%BC7.png
+          url: /images/그림7.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
@@ -102,7 +102,7 @@ sections:
           Dynamics 365를 통해 반복적인 유지보수 비용을 줄이고, 자동화와 AI 기반 인사이트로 핵심 비즈니스 가치를 실현할 수 있도록 도와드립니다.
         featuredImage:
           type: ImageBlock
-          url: https://o365kaoni-my.sharepoint.com/personal/thgmlrla215_kaoni_net/Documents/99.%20%EC%97%85%EB%AC%B4%EC%9A%A9%20%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80/%EA%B7%B8%EB%A6%BC8.jpg
+          url: /images/그림8.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
@@ -128,7 +128,7 @@ sections:
           AI 시대의 경쟁력은 바로 고객 경험에서 시작됩니다. 당사는 Microsoft Copilot의 영업, 고객 서비스, 현장 서비스 영역에서의 활용 가능성을 극대화할 수 있도록, 사전 준비부터 실제 비즈니스 가치 실현까지 전 과정을 함께 지원합니다.
         featuredImage:
           type: ImageBlock
-          url: https://o365kaoni-my.sharepoint.com/personal/thgmlrla215_kaoni_net/Documents/99.%20%EC%97%85%EB%AC%B4%EC%9A%A9%20%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80/%EA%B7%B8%EB%A6%BC9.png
+          url: /images/그림9.png
           altText: Item image
           caption: Caption of the image
           elementId: ''

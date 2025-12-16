@@ -1,8 +1,8 @@
 ---
 type: PostLayout
-title: How I started a startup 🚀
+title: Microsoft Dynamics 365란 무엇인가요? 🚀
 colors: colors-a
-date: '2021-06-28'
+date: '2025-12-16'
 author: content/data/team/doris-soto.json
 excerpt: >-
   More context that may or may not be helpful
