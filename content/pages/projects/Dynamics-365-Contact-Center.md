@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Dynamics 365 Contact Center
 date: '2025-12-15'
-client: Awesome client
+# client:
 description: '기존 CRM과 연동하는 에이전트 연락 센터를 통해 채널 전반에서 인텔리전스, 자동화 및 효율성을 제공하세요.'
 media:
   type: ImageBlock

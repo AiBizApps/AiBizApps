@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: Products
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -27,7 +27,7 @@ projectFeed:
         - pb-12
 topSections:
   - type: HeroSection
-    title: Projects
+    title: Products
     subtitle: ''
     actions: []
     colors: colors-f
@@ -47,7 +47,7 @@ topSections:
 bottomSections:
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: '비즈니스의 해답, 가온아이가 함께 고민해 드립니다.'
     colors: colors-f
     form:
       type: FormBlock
