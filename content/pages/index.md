@@ -176,47 +176,49 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 비즈니스의 해답, 가온아이가 함께 고민해 드립니다.
-    form:
-      type: FormBlock
-      elementId: contact-form
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: false
-          placeholder: Your name
-          width: 1/2
-          isRequired: true
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: false
-          placeholder: Your email
-          width: 1/2
-          isRequired: true
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: false
-          placeholder: Type your message here
-          width: full
-        - type: CheckboxFormControl
-          name: updates
-          label: Sign me up to receive updates
-          width: full
-      submitLabel: Send Message
-      styles:
-        self:
-          textAlign: left
+    text: >
+      <iframe width="1000px" height="1000px" src="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=vg0NhSPxX0OimkD_Dl-ACPg0BqECzuZJm6y8ZT1pkl9UMkNBOURORlVQVk5LUElYTk04NTZYNDVHSi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border:none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+    # form:
+    #   type: FormBlock
+    #   elementId: contact-form
+    #   fields:
+    #     - type: TextFormControl
+    #       name: name
+    #       label: Name
+    #       hideLabel: false
+    #       placeholder: Your name
+    #       width: 1/2
+    #       isRequired: true
+    #     - type: EmailFormControl
+    #       name: email
+    #       label: Email
+    #       hideLabel: false
+    #       placeholder: Your email
+    #       width: 1/2
+    #       isRequired: true
+    #     - type: TextareaFormControl
+    #       name: message
+    #       label: Message
+    #       hideLabel: false
+    #       placeholder: Type your message here
+    #       width: full
+    #     - type: CheckboxFormControl
+    #       name: updates
+    #       label: Sign me up to receive updates
+    #       width: full
+    #   submitLabel: Send Message
+    #   styles:
+    #     self:
+    #       textAlign: left
     styles:
       self:
         height: auto
         width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+        # margin:
+        #   - mt-0
+        #   - mb-0
+        #   - ml-0
+        #   - mr-0
         padding:
           - pt-24
           - pb-24

@@ -47,6 +47,9 @@ sections:
   - type: ContactSection
     backgroundSize: full
     title: 비즈니스의 해답, 가온아이가 함께 고민해 드립니다.
+    text: >
+      <iframe width="1000px" height="1000px" src="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=vg0NhSPxX0OimkD_Dl-ACPg0BqECzuZJm6y8ZT1pkl9UMkNBOURORlVQVk5LUElYTk04NTZYNDVHSi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border:none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
     colors: colors-f
     form:
       type: FormBlock

@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Microsoft Power Platform
 date: '2025-12-15'
-client: ''
+# client: ''
 description: 로우코드 도구로 비용과 개발 시간을 절감하세요.
 media:
   type: ImageBlock
